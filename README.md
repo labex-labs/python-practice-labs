@@ -24,7 +24,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0011 | 📖 Python Break and Continue                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271523'>Start Lab</a> |
 |    0012 | 📖 Python List Comprehensions                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271568'>Start Lab</a> |
 |    0013 | 📖 Organizing Palace Inventory with Python Lists         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271570'>Start Lab</a> |
-|    0014 | 📖 Implement a Simple Named Tuple                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302735'>Start Lab</a> |
+|    0014 | 📖 Implement a Simple Named Tuple (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302735'>Start Lab</a> |
 |    0015 | 📖 Python Tuple Mastery in Virtual Arena                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271600'>Start Lab</a> |
 |    0016 | 📖 Mastering Python Dictionaries for Stellar Explorat... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271547'>Start Lab</a> |
 |    0017 | 📖 Python Sets Management Lab                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271590'>Start Lab</a> |
@@ -33,18 +33,18 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0020 | 📖 Python Default Arguments                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271545'>Start Lab</a> |
 |    0021 | 📖 Python Keyword Arguments                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271565'>Start Lab</a> |
 |    0022 | 📖 Python Lambda Functions                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271566'>Start Lab</a> |
-|    0023 | 📖 Capitalize Every Word                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13595'>Start Lab</a>  |
-|    0024 | 📖 Celsius to Fahrenheit                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13598'>Start Lab</a>  |
-|    0025 | 📖 Fahrenheit to Celsius Conversion                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13629'>Start Lab</a>  |
-|    0026 | 📖 Km to Miles                                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13680'>Start Lab</a>  |
-|    0027 | 📖 Miles to km                                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13692'>Start Lab</a>  |
+|    0023 | 📖 Capitalize First Letter In Words                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13595'>Start Lab</a>  |
+|    0024 | 📖 Convert Celsius to Fahrenheit                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13598'>Start Lab</a>  |
+|    0025 | 📖 Fahrenheit to Celsius Conversion (Lab)                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13629'>Start Lab</a>  |
+|    0026 | 📖 Convert Kilometers to Miles Converter                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13680'>Start Lab</a>  |
+|    0027 | 📖 Miles to km (Lab)                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13692'>Start Lab</a>  |
 |    0028 | 📖 Python Scope Mastery: Architect the Pythonic Realm    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271588'>Start Lab</a> |
 |    0029 | 📖 Mastering Recursive Functions in Python               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271585'>Start Lab</a> |
 |    0030 | 📖 Python Build-in Functions                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271524'>Start Lab</a> |
 |    0031 | 📖 Python Importing Modules                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271560'>Start Lab</a> |
-|    0032 | 📖 Check if a Number is Even                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13670'>Start Lab</a>  |
-|    0033 | 📖 Check if a Number is Odd                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13671'>Start Lab</a>  |
-|    0034 | 📖 Text Tokenization with Python                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302774'>Start Lab</a> |
+|    0032 | 📖 Check if a Number is Even (Lab)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13670'>Start Lab</a>  |
+|    0033 | 📖 Check if a Number is Odd (Lab)                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13671'>Start Lab</a>  |
+|    0034 | 📖 Text Tokenization with Python (Lab)                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302774'>Start Lab</a> |
 |    0035 | 📖 Python Creating Modules                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271537'>Start Lab</a> |
 |    0036 | 📖 Python Using Packages                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271603'>Start Lab</a> |
 |    0037 | 📖 Python Common Standard Libraries                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271593'>Start Lab</a> |
@@ -60,7 +60,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0047 | 📖 Python Custom Exceptions                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271538'>Start Lab</a> |
 |    0048 | 📖 Python Finally Block                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271554'>Start Lab</a> |
 |    0049 | 📖 Python Opening and Closing Files                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271549'>Start Lab</a> |
-|    0050 | 📖 Number is divisible                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13668'>Start Lab</a>  |
+|    0050 | 📖 Number is divisible (Lab)                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13668'>Start Lab</a>  |
 |    0051 | 📖 Python Programming Introduction                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132700'>Start Lab</a> |
 |    0052 | 📖 Python Reading and Writing Files                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271552'>Start Lab</a> |
 |    0053 | 📖 Python File Operations                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271551'>Start Lab</a> |
@@ -68,21 +68,21 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0055 | 📖 Python Iterator Mastery Challenge                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271563'>Start Lab</a> |
 |    0056 | 📖 Mastering Python Generators to Haunt Sanatorium       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271558'>Start Lab</a> |
 |    0057 | 📖 Optimizing Subterranean Python Workflows              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271544'>Start Lab</a> |
-|    0058 | 📖 Byte Size of String                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13593'>Start Lab</a>  |
-|    0059 | 📖 Invert a Dictionary                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13665'>Start Lab</a>  |
-|    0060 | 📖 Number to Binary                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13730'>Start Lab</a>  |
-|    0061 | 📖 Number to Hex                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13732'>Start Lab</a>  |
+|    0058 | 📖 Determining String Byte Size                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13593'>Start Lab</a>  |
+|    0059 | 📖 Reverse Dictionary Data Structure                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13665'>Start Lab</a>  |
+|    0060 | 📖 Number to Binary (Lab)                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13730'>Start Lab</a>  |
+|    0061 | 📖 Number to Hex (Lab)                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13732'>Start Lab</a>  |
 |    0062 | 📖 Python Context Managers                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271535'>Start Lab</a> |
 |    0063 | 📖 Python Regular Expressions                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271586'>Start Lab</a> |
 |    0064 | 📖 Python Multithreading and Multiprocessing             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271599'>Start Lab</a> |
-|    0065 | 📖 Counting Occurrences in Python Lists                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13609'>Start Lab</a>  |
-|    0066 | 📖 Every nth element in list                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13626'>Start Lab</a>  |
-|    0067 | 📖 List Head Function                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13653'>Start Lab</a>  |
-|    0068 | 📖 Remove Last Element from Python List                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13659'>Start Lab</a>  |
-|    0069 | 📖 Last List Element                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13681'>Start Lab</a>  |
-|    0070 | 📖 Offset List Elements                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13701'>Start Lab</a>  |
-|    0071 | 📖 Reverse List Function                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13709'>Start Lab</a>  |
-|    0072 | 📖 Rotate List Elements                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13711'>Start Lab</a>  |
+|    0065 | 📖 Counting Occurrences in Python Lists (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13609'>Start Lab</a>  |
+|    0066 | 📖 Every nth element in list (Lab)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13626'>Start Lab</a>  |
+|    0067 | 📖 List Head Function (Lab)                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13653'>Start Lab</a>  |
+|    0068 | 📖 Remove Last Element from Python List (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13659'>Start Lab</a>  |
+|    0069 | 📖 Last List Element (Lab)                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13681'>Start Lab</a>  |
+|    0070 | 📖 Offset List Elements (Lab)                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13701'>Start Lab</a>  |
+|    0071 | 📖 Reverse List Function (Lab)                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13709'>Start Lab</a>  |
+|    0072 | 📖 Rotate List Elements (Lab)                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13711'>Start Lab</a>  |
 |    0073 | 📖 Python Math and Random                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271573'>Start Lab</a> |
 |    0074 | 📖 Python Date and Time                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271543'>Start Lab</a> |
 |    0075 | 📖 Python Data Collections                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271540'>Start Lab</a> |
@@ -90,186 +90,186 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0077 | 📖 Python Data Serialization                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271541'>Start Lab</a> |
 |    0078 | 📖 Python Operating System and System                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271578'>Start Lab</a> |
 |    0079 | 📖 Python Socket Programming                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271592'>Start Lab</a> |
-|    0080 | 📖 Check if Key Exists in Dictionary                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13676'>Start Lab</a>  |
+|    0080 | 📖 Check if Key Exists in Dictionary (Lab)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13676'>Start Lab</a>  |
 |    0081 | 📖 Python HTTP Requests                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271559'>Start Lab</a> |
 |    0082 | 📖 Python Networking Protocols                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271574'>Start Lab</a> |
 |    0083 | 📖 Python Numerical Computing                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271577'>Start Lab</a> |
-|    0084 | 📖 Execute Function for Each List Element                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13643'>Start Lab</a>  |
-|    0085 | 📖 Reverse Iteration in Python                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13642'>Start Lab</a>  |
+|    0084 | 📖 Execute Function for Each List Element (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13643'>Start Lab</a>  |
+|    0085 | 📖 Reverse Iteration in Python (Lab)                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13642'>Start Lab</a>  |
 |    0086 | 📖 Python Data Analysis                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271539'>Start Lab</a> |
 |    0087 | 📖 Python Data Visualization                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271542'>Start Lab</a> |
 |    0088 | 📖 Mastering Python's Conditional Statements             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/82'>Start Lab</a>     |
-|    0089 | 📖 Clamping Numbers Within Range                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13602'>Start Lab</a>  |
+|    0089 | 📖 Clamping Numbers Within Range (Lab)                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13602'>Start Lab</a>  |
 |    0090 | 📖 Calculating Hamming Distance Between Strings          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13650'>Start Lab</a>  |
 |    0091 | 📖 Python Machine Learning                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271572'>Start Lab</a> |
 |    0092 | 📖 While Loop Statements                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/97'>Start Lab</a>     |
-|    0093 | 📖 Implementing Caesar Cipher Encryption                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302693'>Start Lab</a> |
-|    0094 | 📖 Split into Lines                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13721'>Start Lab</a>  |
-|    0095 | 📖 Apply Function When True                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13742'>Start Lab</a>  |
-|    0096 | 📖 Recursive Factorial Calculation in Python             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13628'>Start Lab</a>  |
-|    0097 | 📖 Number in Range                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13655'>Start Lab</a>  |
-|    0098 | 📖 Implementing Affine Encryption in Python              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302685'>Start Lab</a> |
-|    0099 | 📖 Drop List Elements from the Left                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13625'>Start Lab</a>  |
-|    0100 | 📖 Drop List Elements from the Right                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13624'>Start Lab</a>  |
-|    0101 | 📖 Remove List Elements                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13729'>Start Lab</a>  |
-|    0102 | 📖 Remove List Elements from the End                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13728'>Start Lab</a>  |
-|    0103 | 📖 Map Number to Range                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13700'>Start Lab</a>  |
-|    0104 | 📖 Flatten a List                                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13641'>Start Lab</a>  |
-|    0105 | 📖 Check if a List Includes All Values                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13656'>Start Lab</a>  |
-|    0106 | 📖 Check List Membership                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13657'>Start Lab</a>  |
-|    0107 | 📖 Pad Numbers to Specified Length in Python             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13702'>Start Lab</a>  |
-|    0108 | 📖 Swap Values of 3 Variables                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302780'>Start Lab</a> |
+|    0093 | 📖 Implementing Caesar Cipher Encryption (Lab)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302693'>Start Lab</a> |
+|    0094 | 📖 Split into Lines (Lab)                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13721'>Start Lab</a>  |
+|    0095 | 📖 Apply Function Conditionally                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13742'>Start Lab</a>  |
+|    0096 | 📖 Recursive Factorial Calculation in Python (Lab)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13628'>Start Lab</a>  |
+|    0097 | 📖 Determining Number Within Range                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13655'>Start Lab</a>  |
+|    0098 | 📖 Implementing Affine Encryption in Python (Lab)        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302685'>Start Lab</a> |
+|    0099 | 📖 Drop List Elements from the Left (Lab)                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13625'>Start Lab</a>  |
+|    0100 | 📖 Drop List Elements from the Right (Lab)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13624'>Start Lab</a>  |
+|    0101 | 📖 Remove List Elements (Lab)                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13729'>Start Lab</a>  |
+|    0102 | 📖 Remove List Elements from the End (Lab)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13728'>Start Lab</a>  |
+|    0103 | 📖 Map Number to Range (Lab)                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13700'>Start Lab</a>  |
+|    0104 | 📖 Flatten a List (Lab)                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13641'>Start Lab</a>  |
+|    0105 | 📖 Check if a List Includes All Values (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13656'>Start Lab</a>  |
+|    0106 | 📖 Check List Membership (Lab)                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13657'>Start Lab</a>  |
+|    0107 | 📖 Pad Numbers to Specified Length in Python (Lab)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13702'>Start Lab</a>  |
+|    0108 | 📖 Swap Values of 3 Variables (Lab)                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302780'>Start Lab</a> |
 |    0109 | 📖 Matplotlib Tricontour Smooth User                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49004'>Start Lab</a>  |
-|    0110 | 📖 Index of Max Element                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13687'>Start Lab</a>  |
-|    0111 | 📖 Index of min element                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13694'>Start Lab</a>  |
-|    0112 | 📖 Key of Max Value                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13677'>Start Lab</a>  |
-|    0113 | 📖 Key of Min Value                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13678'>Start Lab</a>  |
-|    0114 | 📖 RGB to Hex Conversion                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13710'>Start Lab</a>  |
+|    0110 | 📖 Index of Max Element (Lab)                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13687'>Start Lab</a>  |
+|    0111 | 📖 Index of min element (Lab)                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13694'>Start Lab</a>  |
+|    0112 | 📖 Key of Max Value (Lab)                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13677'>Start Lab</a>  |
+|    0113 | 📖 Key of Min Value (Lab)                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13678'>Start Lab</a>  |
+|    0114 | 📖 RGB to Hex Conversion (Lab)                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13710'>Start Lab</a>  |
 |    0115 | 📖 Generate Fibonacci Sequence in Python                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13630'>Start Lab</a>  |
 |    0116 | 📖 Python List Comprehension Comparison                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13714'>Start Lab</a>  |
-|    0117 | 📖 Count Each Type Characters                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302711'>Start Lab</a> |
-|    0118 | 📖 Capitalize First Letter in Python                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13596'>Start Lab</a>  |
-|    0119 | 📖 Decapitalize First Letter in Python                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13616'>Start Lab</a>  |
-|    0120 | 📖 Extracting List Tail in Python                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13727'>Start Lab</a>  |
-|    0121 | 📖 Sum of a Special Number Series                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302776'>Start Lab</a> |
-|    0122 | 📖 Integer to Roman Numeral                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13734'>Start Lab</a>  |
-|    0123 | 📖 Weighted Average Calculation Function                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13741'>Start Lab</a>  |
-|    0124 | 📖 Clear Code Encryption Implementation                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302703'>Start Lab</a> |
-|    0125 | 📖 Pluck values from list of dictionaries                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13705'>Start Lab</a>  |
-|    0126 | 📖 Ordinary Least Squares in Python                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300247'>Start Lab</a> |
-|    0127 | 📖 Predicate Functions on Dictionary Properties          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13599'>Start Lab</a>  |
-|    0128 | 📖 Sum of Prime Numbers Under 100                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302778'>Start Lab</a> |
-|    0129 | 📖 Calculate Average in Python                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13589'>Start Lab</a>  |
-|    0130 | 📖 Longest Iterable Object Identification                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13683'>Start Lab</a>  |
-|    0131 | 📖 N Max Elements                                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13688'>Start Lab</a>  |
-|    0132 | 📖 N Minimum Elements                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13695'>Start Lab</a>  |
+|    0117 | 📖 Count Each Type Characters (Lab)                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302711'>Start Lab</a> |
+|    0118 | 📖 Capitalize First Letter in Python (Lab)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13596'>Start Lab</a>  |
+|    0119 | 📖 Decapitalize First Letter in Python (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13616'>Start Lab</a>  |
+|    0120 | 📖 Extracting List Tail in Python (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13727'>Start Lab</a>  |
+|    0121 | 📖 Sum of a Special Number Series (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302776'>Start Lab</a> |
+|    0122 | 📖 Convert Integer to Roman Numerals                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13734'>Start Lab</a>  |
+|    0123 | 📖 Weighted Average Calculation Function (Lab)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13741'>Start Lab</a>  |
+|    0124 | 📖 Clear Code Encryption Implementation (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302703'>Start Lab</a> |
+|    0125 | 📖 Pluck values from list of dictionaries (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13705'>Start Lab</a>  |
+|    0126 | 📖 Ordinary Least Squares in Python (Lab)                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300247'>Start Lab</a> |
+|    0127 | 📖 Predicate Functions on Dictionary Properties (Lab)    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13599'>Start Lab</a>  |
+|    0128 | 📖 Sum of Prime Numbers Under 100 (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302778'>Start Lab</a> |
+|    0129 | 📖 Calculate Average in Python (Lab)                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13589'>Start Lab</a>  |
+|    0130 | 📖 Longest Iterable Object Identification (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13683'>Start Lab</a>  |
+|    0131 | 📖 Find Maximum Elements From List                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13688'>Start Lab</a>  |
+|    0132 | 📖 N Minimum Elements (Lab)                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13695'>Start Lab</a>  |
 |    0133 | 📖 NumPy Empty Function                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86431'>Start Lab</a>  |
-|    0134 | 📖 Bifurcate List Based on Function                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13590'>Start Lab</a>  |
+|    0134 | 📖 Bifurcate List Based on Function (Lab)                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13590'>Start Lab</a>  |
 |    0135 | 📖 Python String Manipulation Techniques                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86'>Start Lab</a>     |
-|    0136 | 📖 Leap Year or Common Year                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302741'>Start Lab</a> |
+|    0136 | 📖 Leap Year or Common Year (Lab)                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302741'>Start Lab</a> |
 |    0137 | 📖 Implementing Column Permutation Encryption in Pyth... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302705'>Start Lab</a> |
-|    0138 | 📖 Implementing Rail Fence Cipher in Python              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302758'>Start Lab</a> |
-|    0139 | 📖 All Indexes of Value                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13658'>Start Lab</a>  |
+|    0138 | 📖 Implementing Rail Fence Cipher in Python (Lab)        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302758'>Start Lab</a> |
+|    0139 | 📖 All Indexes of Value (Lab)                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13658'>Start Lab</a>  |
 |    0140 | 📖 The Power and Flexibility of F-String                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7847'>Start Lab</a>   |
 |    0141 | 📖 Split List by Filter in Python                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13591'>Start Lab</a>  |
-|    0142 | 📖 Find Maximum List Value Based on Function             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13686'>Start Lab</a>  |
+|    0142 | 📖 Find Maximum List Value Based on Function (Lab)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13686'>Start Lab</a>  |
 |    0143 | 📖 Find Minimum by Attribute in Python                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13693'>Start Lab</a>  |
-|    0144 | 📖 Sum List Based on Function                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13723'>Start Lab</a>  |
-|    0145 | 📖 Initialize 2D List                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13660'>Start Lab</a>  |
-|    0146 | 📖 Initialize List with Values                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13662'>Start Lab</a>  |
-|    0147 | 📖 Sum of powers                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13724'>Start Lab</a>  |
-|    0148 | 📖 Check for Duplicates in List Function                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13586'>Start Lab</a>  |
-|    0149 | 📖 Check for Duplicates in a List                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13651'>Start Lab</a>  |
-|    0150 | 📖 Test if every list element is truthy                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13627'>Start Lab</a>  |
-|    0151 | 📖 Test if some list elements are truthy                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13717'>Start Lab</a>  |
+|    0144 | 📖 Sum List Based on Function (Lab)                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13723'>Start Lab</a>  |
+|    0145 | 📖 Initialize 2D List (Lab)                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13660'>Start Lab</a>  |
+|    0146 | 📖 Initialize List with Values (Lab)                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13662'>Start Lab</a>  |
+|    0147 | 📖 Sum of powers (Lab)                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13724'>Start Lab</a>  |
+|    0148 | 📖 Check for Duplicates in List Function (Lab)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13586'>Start Lab</a>  |
+|    0149 | 📖 Check for Duplicates in a List (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13651'>Start Lab</a>  |
+|    0150 | 📖 Test if every list element is truthy (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13627'>Start Lab</a>  |
+|    0151 | 📖 Test if some list elements are truthy (Lab)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13717'>Start Lab</a>  |
 |    0152 | 📖 A First Program                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132701'>Start Lab</a> |
 |    0153 | 📖 Numpy Char.partition Function                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86418'>Start Lab</a>  |
-|    0154 | 📖 Extract Rightmost Digit in Python                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302739'>Start Lab</a> |
+|    0154 | 📖 Extract Rightmost Digit in Python (Lab)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302739'>Start Lab</a> |
 |    0155 | 📖 Numpy Identity Function                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86448'>Start Lab</a>  |
 |    0156 | 📖 Numpy Ones Function                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86487'>Start Lab</a>  |
-|    0157 | 📖 Find All Matching Indexes                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13633'>Start Lab</a>  |
-|    0158 | 📖 Arithmetic Progression Generator                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13587'>Start Lab</a>  |
-|    0159 | 📖 Find Common Elements in Python Lists                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13664'>Start Lab</a>  |
+|    0157 | 📖 Find All Matching Indexes (Lab)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13633'>Start Lab</a>  |
+|    0158 | 📖 Arithmetic Progression Generator (Lab)                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13587'>Start Lab</a>  |
+|    0159 | 📖 Find Common Elements in Python Lists (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13664'>Start Lab</a>  |
 |    0160 | 📖 Matrix Transpose in Python                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13735'>Start Lab</a>  |
 |    0161 | 📖 Unique List Combination in Python                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13738'>Start Lab</a>  |
-|    0162 | 📖 Unique Elements in List                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13739'>Start Lab</a>  |
-|    0163 | 📖 Extracting Dictionary Keys in Python                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13679'>Start Lab</a>  |
-|    0164 | 📖 Test if every list element is falsy                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13699'>Start Lab</a>  |
+|    0162 | 📖 Unique Elements in List (Lab)                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13739'>Start Lab</a>  |
+|    0163 | 📖 Extracting Dictionary Keys in Python (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13679'>Start Lab</a>  |
+|    0164 | 📖 Test if every list element is falsy (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13699'>Start Lab</a>  |
 |    0165 | 📖 Mastering Python Dictionaries: Key-Value Pairs        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13740'>Start Lab</a>  |
-|    0166 | 📖 Most Frequent Element                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13697'>Start Lab</a>  |
+|    0166 | 📖 Most Frequent Element (Lab)                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13697'>Start Lab</a>  |
 |    0167 | 📖 Python Decorator Fundamentals                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/76'>Start Lab</a>     |
-|    0168 | 📖 Mapped List Average                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13588'>Start Lab</a>  |
+|    0168 | 📖 Mapped List Average (Lab)                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13588'>Start Lab</a>  |
 |    0169 | 📖 Creating Numpy Arrays From Numerical Ranges           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86396'>Start Lab</a>  |
-|    0170 | 📖 Check if List Elements are Identical                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13585'>Start Lab</a>  |
+|    0170 | 📖 Check if List Elements are Identical (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13585'>Start Lab</a>  |
 |    0171 | 📖 Remove Falsy Values in Python                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13605'>Start Lab</a>  |
 |    0172 | 📖 Python Snake Case Conversion                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13716'>Start Lab</a>  |
 |    0173 | 📖 Switch Case Statements                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/94'>Start Lab</a>     |
 |    0174 | 📖 Formatting Python Print Statements                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/91'>Start Lab</a>     |
 |    0175 | 📖 Mastering Python Loops and Ranges                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/78'>Start Lab</a>     |
-|    0176 | 📖 Cast to List                                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13597'>Start Lab</a>  |
-|    0177 | 📖 Palindrome Detection in Python                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13704'>Start Lab</a>  |
+|    0176 | 📖 Cast to List (Lab)                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13597'>Start Lab</a>  |
+|    0177 | 📖 Palindrome Detection in Python (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13704'>Start Lab</a>  |
 |    0178 | 📖 Webbrowser Package Basic                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8689'>Start Lab</a>   |
-|    0179 | 📖 Unique Character Sorting in Python                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302760'>Start Lab</a> |
-|    0180 | 📖 Convert Number to Digit List in Python                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13623'>Start Lab</a>  |
+|    0179 | 📖 Unique Character Sorting in Python (Lab)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302760'>Start Lab</a> |
+|    0180 | 📖 Convert Number to Digit List in Python (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13623'>Start Lab</a>  |
 |    0181 | 📖 Anagram Checker: A Python Challenge                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13666'>Start Lab</a>  |
-|    0182 | 📖 Dictionary to List                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13620'>Start Lab</a>  |
-|    0183 | 📖 Lists to Dictionary                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13731'>Start Lab</a>  |
+|    0182 | 📖 Dictionary to List (Lab)                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13620'>Start Lab</a>  |
+|    0183 | 📖 Lists to Dictionary (Lab)                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13731'>Start Lab</a>  |
 |    0184 | 📖 Median Calculation with Python                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13689'>Start Lab</a>  |
-|    0185 | 📖 Yin Book Encryption Implementation and Testing        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302786'>Start Lab</a> |
-|    0186 | 📖 Hex to RGB Conversion                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13654'>Start Lab</a>  |
+|    0185 | 📖 Yin Book Encryption Implementation and Testing (La... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302786'>Start Lab</a> |
+|    0186 | 📖 Hex to RGB Conversion (Lab)                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13654'>Start Lab</a>  |
 |    0187 | 📖 Flatten Nested Lists with Python                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13722'>Start Lab</a>  |
-|    0188 | 📖 Get Nested Value                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13648'>Start Lab</a>  |
-|    0189 | 📖 Initialize List with Range                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13661'>Start Lab</a>  |
-|    0190 | 📖 Collection is empty                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13669'>Start Lab</a>  |
-|    0191 | 📖 Grouping Employees by Phone Number                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302756'>Start Lab</a> |
+|    0188 | 📖 Get Nested Value (Lab)                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13648'>Start Lab</a>  |
+|    0189 | 📖 Initialize List with Range (Lab)                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13661'>Start Lab</a>  |
+|    0190 | 📖 Collection is empty (Lab)                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13669'>Start Lab</a>  |
+|    0191 | 📖 Grouping Employees by Phone Number (Lab)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302756'>Start Lab</a> |
 |    0192 | 📖 Merging Multiple Lists in Python                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13691'>Start Lab</a>  |
-|    0193 | 📖 Perfect Number Finder Project                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302754'>Start Lab</a> |
+|    0193 | 📖 Perfect Number Finder Project (Lab)                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302754'>Start Lab</a> |
 |    0194 | 📖 Comparing List Contents in Programming                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13652'>Start Lab</a>  |
-|    0195 | 📖 Checking List Containment in Python                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13667'>Start Lab</a>  |
+|    0195 | 📖 Checking List Containment in Python (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13667'>Start Lab</a>  |
 |    0196 | 📖 Sharing Python Code Basics                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132740'>Start Lab</a> |
 |    0197 | 📖 NumPy Frombuffer Function                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86443'>Start Lab</a>  |
-|    0198 | 📖 String to Slug                                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13715'>Start Lab</a>  |
-|    0199 | 📖 Factorial Calculation in Python                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302699'>Start Lab</a> |
-|    0200 | 📖 Sort Dictionary by Key                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13719'>Start Lab</a>  |
+|    0198 | 📖 Convert Strings to URL-Friendly Slugs                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13715'>Start Lab</a>  |
+|    0199 | 📖 Factorial Calculation in Python (Lab)                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302699'>Start Lab</a> |
+|    0200 | 📖 Sort Dictionary by Key (Lab)                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13719'>Start Lab</a>  |
 |    0201 | 📖 Mastering Code Debugging Techniques                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132737'>Start Lab</a> |
 |    0202 | 📖 Python SQLite3 Programming                            | ★★☆          | <a target='_blank' href='https://labex.io/labs/1396'>Start Lab</a>   |
-|    0203 | 📖 Degrees to Radians                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13618'>Start Lab</a>  |
-|    0204 | 📖 Radians to Degrees                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13707'>Start Lab</a>  |
-|    0205 | 📖 Matrix Operations: Row Swapping                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302745'>Start Lab</a> |
-|    0206 | 📖 Convert ISO Date                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13645'>Start Lab</a>  |
+|    0203 | 📖 Convert Angle Degrees to Radians                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13618'>Start Lab</a>  |
+|    0204 | 📖 Convert Angles From Radians To Degrees                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13707'>Start Lab</a>  |
+|    0205 | 📖 Matrix Operations: Row Swapping (Lab)                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302745'>Start Lab</a> |
+|    0206 | 📖 Convert ISO Date (Lab)                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13645'>Start Lab</a>  |
 |    0207 | 📖 Calculate List Differences in Python                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13622'>Start Lab</a>  |
-|    0208 | 📖 Find Matching Value                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13640'>Start Lab</a>  |
-|    0209 | 📖 Find Matching Index                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13634'>Start Lab</a>  |
-|    0210 | 📖 Find the Last Matching Value                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13638'>Start Lab</a>  |
-|    0211 | 📖 Find the Last Matching Index                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13637'>Start Lab</a>  |
+|    0208 | 📖 Find Matching Value (Lab)                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13640'>Start Lab</a>  |
+|    0209 | 📖 Find Matching Index (Lab)                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13634'>Start Lab</a>  |
+|    0210 | 📖 Find the Last Matching Value (Lab)                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13638'>Start Lab</a>  |
+|    0211 | 📖 Find the Last Matching Index (Lab)                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13637'>Start Lab</a>  |
 |    0212 | 📖 Symmetric Difference Between Python Lists             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13726'>Start Lab</a>  |
 |    0213 | 📖 Review Basic File I/O                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132392'>Start Lab</a> |
 |    0214 | 📖 Mastering Python Regular Expressions                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/93'>Start Lab</a>     |
 |    0215 | 📖 Merging Multiple Python Dictionaries                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13690'>Start Lab</a>  |
 |    0216 | 📖 Function Composition with Python                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13607'>Start Lab</a>  |
-|    0217 | 📖 Reverse Compose Functions                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13606'>Start Lab</a>  |
+|    0217 | 📖 Implement Left-to-Right Function Composition          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13606'>Start Lab</a>  |
 |    0218 | 📖 Currying in Python Using functools.partial            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13611'>Start Lab</a>  |
-|    0219 | 📖 Find Keys with Value                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13636'>Start Lab</a>  |
-|    0220 | 📖 Filter Non-Unique List Values                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13631'>Start Lab</a>  |
-|    0221 | 📖 Filter Unique List Values                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13632'>Start Lab</a>  |
-|    0222 | 📖 Find Parity Outliers                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13639'>Start Lab</a>  |
-|    0223 | 📖 Map List to Dictionary                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13684'>Start Lab</a>  |
+|    0219 | 📖 Find Keys with Value (Lab)                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13636'>Start Lab</a>  |
+|    0220 | 📖 Filter Non-Unique List Values (Lab)                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13631'>Start Lab</a>  |
+|    0221 | 📖 Filter Unique List Values (Lab)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13632'>Start Lab</a>  |
+|    0222 | 📖 Find Parity Outliers (Lab)                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13639'>Start Lab</a>  |
+|    0223 | 📖 Map List to Dictionary (Lab)                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13684'>Start Lab</a>  |
 |    0224 | 📖 Mastering Python Operators for Decision-Making        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/90'>Start Lab</a>     |
 |    0225 | 📖 NumPy Zeros Function                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86518'>Start Lab</a>  |
 |    0226 | 📖 Binomial Coefficient Calculation Tutorial             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13592'>Start Lab</a>  |
 |    0227 | 📖 Python Date and Time Manipulation                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13613'>Start Lab</a>  |
-|    0228 | 📖 Date Difference in Days                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13614'>Start Lab</a>  |
-|    0229 | 📖 Days from now                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13615'>Start Lab</a>  |
-|    0230 | 📖 Sort List by Indexes                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13718'>Start Lab</a>  |
-|    0231 | 📖 Date to ISO format                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13733'>Start Lab</a>  |
-|    0232 | 📖 Skip When a Multiple of X                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302762'>Start Lab</a> |
+|    0228 | 📖 Calculate Date Difference                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13614'>Start Lab</a>  |
+|    0229 | 📖 Days from now (Lab)                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13615'>Start Lab</a>  |
+|    0230 | 📖 Sort List by Indexes (Lab)                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13718'>Start Lab</a>  |
+|    0231 | 📖 Date to ISO format (Lab)                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13733'>Start Lab</a>  |
+|    0232 | 📖 Skip When a Multiple of X (Lab)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302762'>Start Lab</a> |
 |    0233 | 📖 Numpy Arange Function                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86393'>Start Lab</a>  |
 |    0234 | 📖 Dates and Times                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/75'>Start Lab</a>     |
 |    0235 | 📖 Exploring Python's Built-in Math Functions            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/87'>Start Lab</a>     |
-|    0236 | 📖 Building Lists with Iterators in Python               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13736'>Start Lab</a>  |
-|    0237 | 📖 String to Words                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13743'>Start Lab</a>  |
+|    0236 | 📖 Building Lists with Iterators in Python (Lab)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13736'>Start Lab</a>  |
+|    0237 | 📖 Extract Words from String                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13743'>Start Lab</a>  |
 |    0238 | 📖 Variables and Memory Addresses                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7849'>Start Lab</a>   |
-|    0239 | 📖 Map Dictionary Values                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13685'>Start Lab</a>  |
+|    0239 | 📖 Map Dictionary Values (Lab)                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13685'>Start Lab</a>  |
 |    0240 | 📖 Introducing Python Lists Fundamentals                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132704'>Start Lab</a> |
 |    0241 | 📖 Camelcase Naming Convention for Programming           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13594'>Start Lab</a>  |
 |    0242 | 📖 NumPy Splitlines Function                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86504'>Start Lab</a>  |
-|    0243 | 📖 Greatest Common Divisor                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13646'>Start Lab</a>  |
-|    0244 | 📖 Random Element in List                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13712'>Start Lab</a>  |
-|    0245 | 📖 Delayed Function Execution                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13619'>Start Lab</a>  |
+|    0243 | 📖 Calculating Greatest Common Divisor                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13646'>Start Lab</a>  |
+|    0244 | 📖 Random Element in List (Lab)                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13712'>Start Lab</a>  |
+|    0245 | 📖 Delayed Function Execution (Lab)                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13619'>Start Lab</a>  |
 |    0246 | 📖 Pandas DataFrame Diff Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68608'>Start Lab</a>  |
 |    0247 | 📖 Pandas DataFrame Le Method                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68652'>Start Lab</a>  |
 |    0248 | 📖 Pandas DataFrame Mod Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68668'>Start Lab</a>  |
-|    0249 | 📖 Deep Flatten List                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13617'>Start Lab</a>  |
-|    0250 | 📖 Square Root and Cube Root                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302766'>Start Lab</a> |
+|    0249 | 📖 Deep Flatten List (Lab)                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13617'>Start Lab</a>  |
+|    0250 | 📖 Square Root and Cube Root (Lab)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302766'>Start Lab</a> |
 |    0251 | 📖 Python Assignment and Reference                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/14103'>Start Lab</a>  |
-|    0252 | 📖 Sorting Dictionary by Values in Python                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13720'>Start Lab</a>  |
-|    0253 | 📖 Add Days to Date                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13584'>Start Lab</a>  |
+|    0252 | 📖 Sorting Dictionary by Values in Python (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13720'>Start Lab</a>  |
+|    0253 | 📖 Add Days to a Given Date                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13584'>Start Lab</a>  |
 |    0254 | 📖 Pandas DataFrame Cummin Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68604'>Start Lab</a>  |
 |    0255 | 📖 Pandas DataFrame Cumsum Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68606'>Start Lab</a>  |
 |    0256 | 📖 Pandas DataFrame Ffill Method                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68620'>Start Lab</a>  |
-|    0257 | 📖 Find Key by Value in Python Dictionary                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13635'>Start Lab</a>  |
-|    0258 | 📖 Check if a Date is a Weekday                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13673'>Start Lab</a>  |
-|    0259 | 📖 Date is Weekend                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13674'>Start Lab</a>  |
+|    0257 | 📖 Find Key by Value in Python Dictionary (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13635'>Start Lab</a>  |
+|    0258 | 📖 Check if a Date is a Weekday (Lab)                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13673'>Start Lab</a>  |
+|    0259 | 📖 Date is Weekend (Lab)                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13674'>Start Lab</a>  |
 |    0260 | 📖 Pandas DataFrame From_records Method                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68627'>Start Lab</a>  |
 |    0261 | 📖 Pandas Series Abs Method                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68717'>Start Lab</a>  |
 |    0262 | 📖 Pandas Series Add_prefix Method                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68721'>Start Lab</a>  |
@@ -290,8 +290,8 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0277 | 📖 Pandas DataFrame Pipe Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68690'>Start Lab</a>  |
 |    0278 | 📖 Create a Python Package                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132529'>Start Lab</a> |
 |    0279 | 📖 How Objects Are Represented                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132499'>Start Lab</a> |
-|    0280 | 📖 Circular Seating Arrangement Problem Solving          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302749'>Start Lab</a> |
-|    0281 | 📖 Partial Sum List                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13610'>Start Lab</a>  |
+|    0280 | 📖 Circular Seating Arrangement Problem Solving (Lab)    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302749'>Start Lab</a> |
+|    0281 | 📖 Partial Sum List (Lab)                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13610'>Start Lab</a>  |
 |    0282 | 📖 Pandas DataFrame Div Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68609'>Start Lab</a>  |
 |    0283 | 📖 Pandas DataFrame Equals Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68617'>Start Lab</a>  |
 |    0284 | 📖 Pandas DataFrame Explode Method                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68619'>Start Lab</a>  |
@@ -307,8 +307,8 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0294 | 📖 Pandas DataFrame Pow Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68698'>Start Lab</a>  |
 |    0295 | 📖 Pandas DataFrame Radd Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68707'>Start Lab</a>  |
 |    0296 | 📖 Pandas DataFrame Rdiv Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68711'>Start Lab</a>  |
-|    0297 | 📖 Convert String to Kebab Case in Python                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13675'>Start Lab</a>  |
-|    0298 | 📖 Pad String to Specified Length in Python              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13703'>Start Lab</a>  |
+|    0297 | 📖 Convert String to Kebab Case in Python (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13675'>Start Lab</a>  |
+|    0298 | 📖 Pad String to Specified Length in Python (Lab)        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13703'>Start Lab</a>  |
 |    0299 | 📖 Pandas DataFrame Cummax Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68603'>Start Lab</a>  |
 |    0300 | 📖 Pandas DataFrame Insert Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68637'>Start Lab</a>  |
 |    0301 | 📖 Pandas DataFrame Max Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68658'>Start Lab</a>  |
@@ -316,39 +316,39 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0303 | 📖 Pandas DataFrame Ne Method                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68676'>Start Lab</a>  |
 |    0304 | 📖 Pandas DataFrame Prod Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68699'>Start Lab</a>  |
 |    0305 | 📖 Pandas DataFrame Quantile Method                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68703'>Start Lab</a>  |
-|    0306 | 📖 Randomize List Order in Python                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13713'>Start Lab</a>  |
-|    0307 | 📖 Power Set Generation in Python                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13706'>Start Lab</a>  |
+|    0306 | 📖 Randomize List Order in Python (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13713'>Start Lab</a>  |
+|    0307 | 📖 Power Set Generation in Python (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13706'>Start Lab</a>  |
 |    0308 | 📖 Reverse Number Coding Challenge                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13708'>Start Lab</a>  |
 |    0309 | 📖 Review Simple Functions Exception Handling            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132393'>Start Lab</a> |
 |    0310 | 📖 Pandas DataFrame Product Method                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68701'>Start Lab</a>  |
-|    0311 | 📖 Invert a Dictionary                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13603'>Start Lab</a>  |
+|    0311 | 📖 Invert Dictionary with Duplicates                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13603'>Start Lab</a>  |
 |    0312 | 📖 Calculate Month Difference in Python                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13696'>Start Lab</a>  |
 |    0313 | 📖 Pandas DataFrame Bool Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68591'>Start Lab</a>  |
 |    0314 | 📖 Pandas DataFrame Rename Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68715'>Start Lab</a>  |
 |    0315 | 📖 Matplotlib Colormap Normalizations                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48612'>Start Lab</a>  |
-|    0316 | 📖 Extract Numbers from Text File                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302772'>Start Lab</a> |
-|    0317 | 📖 Number is Prime                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13672'>Start Lab</a>  |
+|    0316 | 📖 Extract Numbers from Text File (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302772'>Start Lab</a> |
+|    0317 | 📖 Number is Prime (Lab)                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13672'>Start Lab</a>  |
 |    0318 | 📖 Classes and Objects                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71'>Start Lab</a>     |
 |    0319 | 📖 Importing Data With Genfromtxt                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85700'>Start Lab</a>  |
-|    0320 | 📖 Area of a Circle                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302687'>Start Lab</a> |
-|    0321 | 📖 Python File Type Counter                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302727'>Start Lab</a> |
+|    0320 | 📖 Area of a Circle (Lab)                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302687'>Start Lab</a> |
+|    0321 | 📖 Python File Type Counter (Lab)                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302727'>Start Lab</a> |
 |    0322 | 📖 Pandas DataFrame Combine Method                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68595'>Start Lab</a>  |
 |    0323 | 📖 Pandas DataFrame Between_time Method                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68590'>Start Lab</a>  |
-|    0324 | 📖 Building a Port Scanner With Python                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298838'>Start Lab</a> |
-|    0325 | 📖 Set Up Processing Pipelines                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132523'>Start Lab</a> |
-|    0326 | 📖 Managing Specific Dates in a Year                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302743'>Start Lab</a> |
-|    0327 | 📖 Geometric Progression Sequence Generator              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13647'>Start Lab</a>  |
+|    0324 | 📖 Building a Port Scanner With Python (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298838'>Start Lab</a> |
+|    0325 | 📖 Utilize Generators For Stocksim Pipelines             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132523'>Start Lab</a> |
+|    0326 | 📖 Managing Specific Dates in a Year (Lab)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302743'>Start Lab</a> |
+|    0327 | 📖 Geometric Progression Sequence Generator (Lab)        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13647'>Start Lab</a>  |
 |    0328 | 📖 Frequency Analysis of List Elements                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13644'>Start Lab</a>  |
 |    0329 | 📖 Mastering Python Itertools for Efficient Combinato... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7840'>Start Lab</a>   |
-|    0330 | 📖 Least Common Multiple                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13682'>Start Lab</a>  |
+|    0330 | 📖 Calculating Least Common Multiple                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13682'>Start Lab</a>  |
 |    0331 | 📖 Pandas Series Add Suffix Method                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68723'>Start Lab</a>  |
-|    0332 | 📖 Generate Date Range in Python                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13612'>Start Lab</a>  |
-|    0333 | 📖 Acrostic Poetry Decryption in Python                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302717'>Start Lab</a> |
+|    0332 | 📖 Generate Date Range in Python (Lab)                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13612'>Start Lab</a>  |
+|    0333 | 📖 Acrostic Poetry Decryption in Python (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302717'>Start Lab</a> |
 |    0334 | 📖 Anonymous Functions and Lambda                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132731'>Start Lab</a> |
-|    0335 | 📖 Calculating and Formatting Square Roots               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302768'>Start Lab</a> |
+|    0335 | 📖 Calculating and Formatting Square Roots (Lab)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302768'>Start Lab</a> |
 |    0336 | 📖 Pandas Series Add Method                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68719'>Start Lab</a>  |
 |    0337 | 📖 Reading and Writing Files                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92'>Start Lab</a>     |
-|    0338 | 📖 Fix the Incorrectly Implemented Lab Class             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302729'>Start Lab</a> |
+|    0338 | 📖 Fix the Incorrectly Implemented Lab Class (Lab)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302729'>Start Lab</a> |
 |    0339 | 📖 Mathematical Calculations Tutorial                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132702'>Start Lab</a> |
 |    0340 | 📖 Returning Values From Functions                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132504'>Start Lab</a> |
 |    0341 | 📖 Pandas Series Between_time Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68748'>Start Lab</a>  |
@@ -358,7 +358,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0345 | 📖 Third Party Modules                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132739'>Start Lab</a> |
 |    0346 | 📖 Python Unittest Module                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132508'>Start Lab</a> |
 |    0347 | 📖 Pandas DataFrame Nunique Method                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68686'>Start Lab</a>  |
-|    0348 | 📖 Combine Dictionary Values                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13604'>Start Lab</a>  |
+|    0348 | 📖 Combine Dictionary Values (Lab)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13604'>Start Lab</a>  |
 |    0349 | 📖 Create Your First Metaclass                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132519'>Start Lab</a> |
 |    0350 | 📖 Pandas DataFrame Clip Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68593'>Start Lab</a>  |
 |    0351 | 📖 Pandas DataFrame Floordiv Method                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68625'>Start Lab</a>  |
@@ -373,19 +373,19 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0360 | 📖 Exploring Python's Collections Module                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7837'>Start Lab</a>   |
 |    0361 | 📖 Python Multiprocessing for Parallel Execution         | ★★☆          | <a target='_blank' href='https://labex.io/labs/7843'>Start Lab</a>   |
 |    0362 | 📖 Pandas DataFrame Min Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68666'>Start Lab</a>  |
-|    0363 | 📖 Statistical Analysis of JSON Data                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302770'>Start Lab</a> |
+|    0363 | 📖 Statistical Analysis of JSON Data (Lab)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302770'>Start Lab</a> |
 |    0364 | 📖 Defining and Importing Python Modules                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132395'>Start Lab</a> |
-|    0365 | 📖 Split list into chunks                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13601'>Start Lab</a>  |
-|    0366 | 📖 Split List into N Chunks                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13600'>Start Lab</a>  |
-|    0367 | 📖 Group List Elements                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13649'>Start Lab</a>  |
+|    0365 | 📖 Split list into chunks (Lab)                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13601'>Start Lab</a>  |
+|    0366 | 📖 Split List into N Chunks (Lab)                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13600'>Start Lab</a>  |
+|    0367 | 📖 Group List Elements (Lab)                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13649'>Start Lab</a>  |
 |    0368 | 📖 Python Function Fundamentals                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/79'>Start Lab</a>     |
-|    0369 | 📖 List Intersection Based on Function                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13663'>Start Lab</a>  |
-|    0370 | 📖 Symmetric Difference Based on Function                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13725'>Start Lab</a>  |
-|    0371 | 📖 List Union Based on Function                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13737'>Start Lab</a>  |
+|    0369 | 📖 List Intersection Based on Function (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13663'>Start Lab</a>  |
+|    0370 | 📖 Symmetric Difference Based on Function (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13725'>Start Lab</a>  |
+|    0371 | 📖 List Union Based on Function (Lab)                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13737'>Start Lab</a>  |
 |    0372 | 📖 Modules and Packages                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/89'>Start Lab</a>     |
 |    0373 | 📖 Pandas Series Bool Method                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68752'>Start Lab</a>  |
 |    0374 | 📖 Pandas DataFrame Isnull Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68641'>Start Lab</a>  |
-|    0375 | 📖 Operations With the OS Module                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302747'>Start Lab</a> |
+|    0375 | 📖 Operations With the OS Module (Lab)                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302747'>Start Lab</a> |
 |    0376 | 📖 Datatypes and Data Structures                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132707'>Start Lab</a> |
 |    0377 | 📖 List Comprehension for Processing Items               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132712'>Start Lab</a> |
 |    0378 | 📖 Run a Small Program                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132390'>Start Lab</a> |
@@ -397,16 +397,16 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0384 | 📖 Real-Time Chatroom with Flask and Redis               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298873'>Start Lab</a> |
 |    0385 | 📖 Producers, Consumers and Pipelines                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132728'>Start Lab</a> |
 |    0386 | 📖 Matplotlib Tool Manager                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48999'>Start Lab</a>  |
-|    0387 | 📖 Extracting and Sorting Movie Data from JSON           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302723'>Start Lab</a> |
+|    0387 | 📖 Extracting and Sorting Movie Data from JSON (Lab)     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302723'>Start Lab</a> |
 |    0388 | 📖 Learn About Descriptors                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132501'>Start Lab</a> |
-|    0389 | 📖 List Difference Based on Function                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13621'>Start Lab</a>  |
-|    0390 | 📖 Count Grouped Elements                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13608'>Start Lab</a>  |
+|    0389 | 📖 List Difference Based on Function (Lab)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13621'>Start Lab</a>  |
+|    0390 | 📖 Group Elements by Function                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13608'>Start Lab</a>  |
 |    0391 | 📖 Mixin Classes and Cooperative Inheritance             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132498'>Start Lab</a> |
 |    0392 | 📖 Text Processing Fundamentals                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132703'>Start Lab</a> |
-|    0393 | 📖 Soldier Serial Number Generator                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302764'>Start Lab</a> |
+|    0393 | 📖 Soldier Serial Number Generator (Lab)                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302764'>Start Lab</a> |
 |    0394 | 📖 Function Argument Passing Conventions                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132509'>Start Lab</a> |
-|    0395 | 📖 Time Travel Destination Calculator                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302782'>Start Lab</a> |
-|    0396 | 📖 Extract Usernames from Text with Python               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302751'>Start Lab</a> |
+|    0395 | 📖 Time Travel Destination Calculator (Lab)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302782'>Start Lab</a> |
+|    0396 | 📖 Extract Usernames from Text with Python (Lab)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302751'>Start Lab</a> |
 |    0397 | 📖 Pandas Options and Settings                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65450'>Start Lab</a>  |
 |    0398 | 📖 Behavior of Inheritance                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132500'>Start Lab</a> |
 |    0399 | 📖 Structured Data Output for Data Analysis              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132709'>Start Lab</a> |
@@ -420,10 +420,10 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0407 | 📖 Customizing Attribute Access                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132502'>Start Lab</a> |
 |    0408 | 📖 File and Folder Manipulation                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/77'>Start Lab</a>     |
 |    0409 | 📖 Main Program Introduction                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132718'>Start Lab</a> |
-|    0410 | 📖 Implementing an Immutable Dictionary                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302737'>Start Lab</a> |
+|    0410 | 📖 Implementing an Immutable Dictionary (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302737'>Start Lab</a> |
 |    0411 | 📖 Customizing Iteration with Generator Functions        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132727'>Start Lab</a> |
 |    0412 | 📖 Defining Custom Python Exceptions                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132723'>Start Lab</a> |
-|    0413 | 📖 Higher Order Functions                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132505'>Start Lab</a> |
+|    0413 | 📖 Mastering Python's Higher Functions                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132505'>Start Lab</a> |
 |    0414 | 📖 Various Data Analysis Problems                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132438'>Start Lab</a> |
 |    0415 | 📖 Create Code With Exec                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132512'>Start Lab</a> |
 |    0416 | 📖 Scoping Rules and Tricks                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132510'>Start Lab</a> |
@@ -432,10 +432,10 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0419 | 📖 Make a New Primitive Type                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132443'>Start Lab</a> |
 |    0420 | 📖 Python Object System Fundamentals                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132724'>Start Lab</a> |
 |    0421 | 📖 Custom Numeric Magic Methods                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7838'>Start Lab</a>   |
-|    0422 | 📖 Handling Dates in Any Year                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302733'>Start Lab</a> |
+|    0422 | 📖 Handling Dates in Any Year (Lab)                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302733'>Start Lab</a> |
 |    0423 | 📖 Circular and Dynamic Module Imports                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132531'>Start Lab</a> |
 |    0424 | 📖 Python Sequence Fundamentals                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132710'>Start Lab</a> |
-|    0425 | 📖 Weekly Report Template Creation                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302784'>Start Lab</a> |
+|    0425 | 📖 Weekly Report Template Creation (Lab)                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302784'>Start Lab</a> |
 |    0426 | 📖 Iterator and Generator                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/84'>Start Lab</a>     |
 |    0427 | 📖 Sequence Magic Methods                                | ★★☆          | <a target='_blank' href='https://labex.io/labs/7845'>Start Lab</a>   |
 |    0428 | 📖 Iterate Like a Pro                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132442'>Start Lab</a> |
@@ -444,13 +444,13 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0431 | 📖 Definitional Aspects of Functions                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132503'>Start Lab</a> |
 |    0432 | 📖 Python Script Writing Practice                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132714'>Start Lab</a> |
 |    0433 | 📖 Inspect the Internals of Functions                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132511'>Start Lab</a> |
-|    0434 | 📖 FTP Weak Password Scanner Using Python                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298882'>Start Lab</a> |
+|    0434 | 📖 FTP Weak Password Scanner Using Python (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298882'>Start Lab</a> |
 |    0435 | 📖 Exception Handling and Logging                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132507'>Start Lab</a> |
 |    0436 | 📖 Define a Simple Decorator Functions                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132514'>Start Lab</a> |
 |    0437 | 📖 Decorator Chaining and Parameterized Decorators       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132515'>Start Lab</a> |
 |    0438 | 📖 Define a Proper Callable Object                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132513'>Start Lab</a> |
 |    0439 | 📖 Define a Simple Class                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132490'>Start Lab</a> |
-|    0440 | 📖 Set Up Processing Pipelines                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132524'>Start Lab</a> |
+|    0440 | 📖 Coroutine-Powered Data Processing                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132524'>Start Lab</a> |
 |    0441 | 📖 Python Typing: Enhancing Code Readability             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7848'>Start Lab</a>   |
 |    0442 | 📖 Classes and Encapsulation                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132725'>Start Lab</a> |
 |    0443 | 📖 Yield Statement Management in Python                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132525'>Start Lab</a> |
@@ -478,10 +478,10 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0465 | 📖 Built-in Method Decorators Introduction               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132734'>Start Lab</a> |
 |    0466 | 📖 Redefining Special Methods                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132496'>Start Lab</a> |
 |    0467 | 📖 Learn About Delegating Generators                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132527'>Start Lab</a> |
-|    0468 | 📖 Create a 2048 Game with Python Tkinter                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298860'>Start Lab</a> |
+|    0468 | 📖 Create a 2048 Game with Python Tkinter (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298860'>Start Lab</a> |
 |    0469 | 📖 Matplotlib Polygon Editor for Cross-GUI Apps          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48876'>Start Lab</a>  |
-|    0470 | 📖 Reverse Shell to Control Multiple Targets             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298839'>Start Lab</a> |
-|    0471 | 📖 Stopwatch Using Python and Tkinter                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298904'>Start Lab</a> |
+|    0470 | 📖 Reverse Shell to Control Multiple Targets (Lab)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298839'>Start Lab</a> |
+|    0471 | 📖 Stopwatch Using Python and Tkinter (Lab)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298904'>Start Lab</a> |
 |    0472 | 📖 Text Data Handling in Pandas                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65455'>Start Lab</a>  |
 |    0473 | 📖 Pandas Append Method                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68576'>Start Lab</a>  |
 |    0474 | 📖 Exploring Font Attributes and Glyph Metrics           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48750'>Start Lab</a>  |
@@ -513,7 +513,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0500 | 📖 Pandas DataFrame Describe Method                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68607'>Start Lab</a>  |
 |    0501 | 📖 Pandas DataFrame Reindex Method                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68713'>Start Lab</a>  |
 |    0502 | 📖 Pandas DataFrame Interpolate Method                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68638'>Start Lab</a>  |
-|    0503 | 📖 Data Cleaning and Purification with Python            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300209'>Start Lab</a> |
+|    0503 | 📖 Data Cleaning and Purification with Python (Lab)      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300209'>Start Lab</a> |
 |    0504 | 📖 Arrow Plotting Using Matplotlib                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48552'>Start Lab</a>  |
 |    0505 | 📖 Create 3D Polygon Fills for Line Graphs               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48879'>Start Lab</a>  |
 |    0506 | 📖 Crafting Command-Line Python Programs                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/73'>Start Lab</a>     |
@@ -536,8 +536,8 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0523 | 📖 Create Real-Time Oscilloscope with Matplotlib         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48963'>Start Lab</a>  |
 |    0524 | 📖 Drawing Flat Objects in 3D Plot                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48856'>Start Lab</a>  |
 |    0525 | 📖 Visualizing Weight Matrices With Hinton Diagrams      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48766'>Start Lab</a>  |
-|    0526 | 📖 ASCII Art Animation With OpenCV                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298850'>Start Lab</a> |
-|    0527 | 📖 Encoding Label to One-Hot                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300216'>Start Lab</a> |
+|    0526 | 📖 ASCII Art Animation With OpenCV (Lab)                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298850'>Start Lab</a> |
+|    0527 | 📖 Encoding Label to One-Hot (Lab)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300216'>Start Lab</a> |
 |    0528 | 📖 Numpy Reshape Function                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86496'>Start Lab</a>  |
 |    0529 | 📖 Pandas DataFrame Boxplot Method                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68592'>Start Lab</a>  |
 |    0530 | 📖 Pandas Series Append Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68732'>Start Lab</a>  |
@@ -563,13 +563,13 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0550 | 📖 Creating Custom Figure Subclasses                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48640'>Start Lab</a>  |
 |    0551 | 📖 Gtk4 Spreadsheet Sgskip                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48761'>Start Lab</a>  |
 |    0552 | 📖 Matplotlib Math Rendering Engine                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48824'>Start Lab</a>  |
-|    0553 | 📖 Creating a Code Rain Animation Using Pygame           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298869'>Start Lab</a> |
+|    0553 | 📖 Creating a Code Rain Animation Using Pygame (Lab)     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298869'>Start Lab</a> |
 |    0554 | 📖 Working With Columns in Pandas                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65434'>Start Lab</a>  |
 |    0555 | 📖 Matplotlib Colormap Normalization                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48611'>Start Lab</a>  |
 |    0556 | 📖 Matplotlib Inset Locator                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48786'>Start Lab</a>  |
 |    0557 | 📖 Simple Axis Pad                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71152'>Start Lab</a>  |
 |    0558 | 📖 Axes Zoom Effect                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48565'>Start Lab</a>  |
-|    0559 | 📖 Matplotlib 3D Voxel Plot                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49026'>Start Lab</a>  |
+|    0559 | 📖 Create 3D Voxel Plots with RGB                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49026'>Start Lab</a>  |
 |    0560 | 📖 Multivariate Normal Distribution Visualizations       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48881'>Start Lab</a>  |
 |    0561 | 📖 Working With Data Structures in Pandas                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65443'>Start Lab</a>  |
 |    0562 | 📖 Create Interactive Fourier Waveform Visualization     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48748'>Start Lab</a>  |
@@ -581,7 +581,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0568 | 📖 Matplotlib Ribbon Box                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48684'>Start Lab</a>  |
 |    0569 | 📖 Gtk3 Spreadsheet Sgskip                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48760'>Start Lab</a>  |
 |    0570 | 📖 Electrical Dipole Gradient Visualization with Matp... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49008'>Start Lab</a>  |
-|    0571 | 📖 Early Stopping for Machine Learning                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300214'>Start Lab</a> |
+|    0571 | 📖 Early Stopping for Machine Learning (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300214'>Start Lab</a> |
 |    0572 | 📖 3D Voxel Plot of the NumPy Logo                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49025'>Start Lab</a>  |
 |    0573 | 📖 Hatch Style Reference                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48764'>Start Lab</a>  |
 |    0574 | 📖 Adding a Cursor in WX                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49035'>Start Lab</a>  |
@@ -596,10 +596,10 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0583 | 📖 Customizing Matplotlib Visualizations with Markers    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48819'>Start Lab</a>  |
 |    0584 | 📖 Creating Boxes From Error Bars Using PatchCollecti... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48718'>Start Lab</a>  |
 |    0585 | 📖 Matplotlib Lasso Demo                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48797'>Start Lab</a>  |
-|    0586 | 📖 Image Viewer Using Python and Tkinter                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298890'>Start Lab</a> |
+|    0586 | 📖 Image Viewer Using Python and Tkinter (Lab)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298890'>Start Lab</a> |
 |    0587 | 📖 Create Radar Charts with Python Matplotlib            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48896'>Start Lab</a>  |
 |    0588 | 📖 Creating Annotated Heatmaps                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48776'>Start Lab</a>  |
-|    0589 | 📖 Connect Four Game - Human vs. AI                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298858'>Start Lab</a> |
+|    0589 | 📖 Connect Four Game - Human vs. AI (Lab)                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298858'>Start Lab</a> |
 |    0590 | 📖 Create Hatch-Filled Histograms with Matplotlib        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48738'>Start Lab</a>  |
 |    0591 | 📖 Lasso Selector Demo Sgskip                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48798'>Start Lab</a>  |
 |    0592 | 📖 Multiprocessing With Matplotlib                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48844'>Start Lab</a>  |
@@ -607,13 +607,13 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0594 | 📖 Fixing Too Many Ticks in Matplotlib                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48994'>Start Lab</a>  |
 |    0595 | 📖 Ways to Set a Color's Alpha Value                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48922'>Start Lab</a>  |
 |    0596 | 📖 Matplotlib Histogram Plotting                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48767'>Start Lab</a>  |
-|    0597 | 📖 Monty Hall Problem Simulation Using Tkinter           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298896'>Start Lab</a> |
-|    0598 | 📖 Push Box Game With Pygame                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298899'>Start Lab</a> |
+|    0597 | 📖 Monty Hall Problem Simulation Using Tkinter (Lab)     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298896'>Start Lab</a> |
+|    0598 | 📖 Push Box Game With Pygame (Lab)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298899'>Start Lab</a> |
 |    0599 | 📖 Usetex Font Effects                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49020'>Start Lab</a>  |
-|    0600 | 📖 NumPy Array Creation                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86395'>Start Lab</a>  |
+|    0600 | 📖 Creating Empty, Zeroes, and Ones Arrays               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86395'>Start Lab</a>  |
 |    0601 | 📖 Matplotlib Axes Divider                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48931'>Start Lab</a>  |
 |    0602 | 📖 Primary 3D View Planes                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49021'>Start Lab</a>  |
-|    0603 | 📖 Matplotlib Fonts Demo                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48747'>Start Lab</a>  |
+|    0603 | 📖 Customizing Matplotlib Font Properties                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48747'>Start Lab</a>  |
 |    0604 | 📖 Mastering Subplot Customization with GridSpec         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48679'>Start Lab</a>  |
 |    0605 | 📖 Matplotlib GridSpec Layout Visualization              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48758'>Start Lab</a>  |
 |    0606 | 📖 Labelling Subplots With Matplotlib                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48796'>Start Lab</a>  |
@@ -621,7 +621,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0608 | 📖 Pandas DataFrame Items Method                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68642'>Start Lab</a>  |
 |    0609 | 📖 Pandas DataFrame Iterrows Method                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68643'>Start Lab</a>  |
 |    0610 | 📖 Simple Anchored Artists                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48927'>Start Lab</a>  |
-|    0611 | 📖 Matplotlib 3D Voxel Plot                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49027'>Start Lab</a>  |
+|    0611 | 📖 Creating 3D Voxel Plots in Matplotlib                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49027'>Start Lab</a>  |
 |    0612 | 📖 Plotting Non-Uniform Images with Matplotlib           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48781'>Start Lab</a>  |
 |    0613 | 📖 Pandas Series Aggregate Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68727'>Start Lab</a>  |
 |    0614 | 📖 Matplotlib Horizontal Bar Chart                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48581'>Start Lab</a>  |
@@ -631,12 +631,12 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0618 | 📖 Custom Tick Formatter for Time Series                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48654'>Start Lab</a>  |
 |    0619 | 📖 Creating Zoomed Inset With Matplotlib                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48787'>Start Lab</a>  |
 |    0620 | 📖 Creating Tickels From a List of Values                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48989'>Start Lab</a>  |
-|    0621 | 📖 Build a Digital Clock With Python                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298851'>Start Lab</a> |
+|    0621 | 📖 Build a Digital Clock With Python (Lab)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298851'>Start Lab</a> |
 |    0622 | 📖 Matplotlib Image Grid Colorbars                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48674'>Start Lab</a>  |
 |    0623 | 📖 Matplotlib Spine Placement                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48952'>Start Lab</a>  |
 |    0624 | 📖 Spectrogram Plotting With Matplotlib                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48950'>Start Lab</a>  |
 |    0625 | 📖 Display Images with Matplotlib                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48789'>Start Lab</a>  |
-|    0626 | 📖 Matplotlib Axis Direction                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48665'>Start Lab</a>  |
+|    0626 | 📖 Change Axis Direction in Matplotlib                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48665'>Start Lab</a>  |
 |    0627 | 📖 Modifying Coordinate Formatter in Matplotlib          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48785'>Start Lab</a>  |
 |    0628 | 📖 Creating Figures with Matplotlib in Python            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48732'>Start Lab</a>  |
 |    0629 | 📖 Create Customizable Boxplots with Matplotlib          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48595'>Start Lab</a>  |
@@ -653,7 +653,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0640 | 📖 Labeled Bar Charts with Matplotlib                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48573'>Start Lab</a>  |
 |    0641 | 📖 Custom Matplotlib Projection Showcase                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48642'>Start Lab</a>  |
 |    0642 | 📖 Creating Matplotlib Timeline Visualizations           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48996'>Start Lab</a>  |
-|    0643 | 📖 Build Maze Game Using Pygame                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298854'>Start Lab</a> |
+|    0643 | 📖 Build Maze Game Using Pygame (Lab)                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298854'>Start Lab</a> |
 |    0644 | 📖 Matplotlib Image Grid Visualization                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48681'>Start Lab</a>  |
 |    0645 | 📖 Custom Matplotlib Grid Axes Creation                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48930'>Start Lab</a>  |
 |    0646 | 📖 Matplotlib Nested Gridspecs Visualization             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48759'>Start Lab</a>  |
@@ -672,7 +672,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0659 | 📖 Text Baselines Comparison                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49019'>Start Lab</a>  |
 |    0660 | 📖 Plotting Lorenz Attractor in 3D using Python          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48815'>Start Lab</a>  |
 |    0661 | 📖 Pandas DataFrame Eq Method                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68616'>Start Lab</a>  |
-|    0662 | 📖 Matplotlib Visualization in Python                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48551'>Start Lab</a>  |
+|    0662 | 📖 Matplotlib Visualizations for Data Analysis           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48551'>Start Lab</a>  |
 |    0663 | 📖 Creating Donuts Using path.Path and patches.PathPa... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48693'>Start Lab</a>  |
 |    0664 | 📖 Create Matplotlib Logo with Python                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48813'>Start Lab</a>  |
 |    0665 | 📖 Create Interactive Triangulation Plot with Matplot... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49007'>Start Lab</a>  |
@@ -683,9 +683,9 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0670 | 📖 Resampling Data Using Matplotlib                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48905'>Start Lab</a>  |
 |    0671 | 📖 Pandas Basics: DataFrame Memory and Operations        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65446'>Start Lab</a>  |
 |    0672 | 📖 Matplotlib Custom Units                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48719'>Start Lab</a>  |
-|    0673 | 📖 Build Flappy Bird Using Pygame                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298853'>Start Lab</a> |
+|    0673 | 📖 Build Flappy Bird Using Pygame (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298853'>Start Lab</a> |
 |    0674 | 📖 Plotting Confidence Ellipses With Matplotlib          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48615'>Start Lab</a>  |
-|    0675 | 📖 Create a GUI Calculator With Python                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298861'>Start Lab</a> |
+|    0675 | 📖 Create a GUI Calculator With Python (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298861'>Start Lab</a> |
 |    0676 | 📖 Matplotlib PSD Plotting                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48884'>Start Lab</a>  |
 |    0677 | 📖 Matplotlib Interactive Functions                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48754'>Start Lab</a>  |
 |    0678 | 📖 Create Animated Matplotlib Subplots                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48840'>Start Lab</a>  |
@@ -693,8 +693,8 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0680 | 📖 Matplotlib Span Selector                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48949'>Start Lab</a>  |
 |    0681 | 📖 Animated 3D Random Walk in Matplotlib                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48901'>Start Lab</a>  |
 |    0682 | 📖 Creating a Looking Glass With Matplotlib              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48814'>Start Lab</a>  |
-|    0683 | 📖 Matplotlib 3D Surface Plotting                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48971'>Start Lab</a>  |
-|    0684 | 📖 Matplotlib Image Plotting                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48660'>Start Lab</a>  |
+|    0683 | 📖 Creating Customized 3D Surface Plots                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48971'>Start Lab</a>  |
+|    0684 | 📖 Customizing Matplotlib Axes and Colorbars             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48660'>Start Lab</a>  |
 |    0685 | 📖 Matplotlib Nested GridSpecs                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48680'>Start Lab</a>  |
 |    0686 | 📖 Violin Plotting With Matplotlib                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49023'>Start Lab</a>  |
 |    0687 | 📖 Custom Hillshading in a 3D Surface Plot               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48644'>Start Lab</a>  |
@@ -709,7 +709,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0696 | 📖 Matplotlib Ticklabel Direction                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48688'>Start Lab</a>  |
 |    0697 | 📖 Matplotlib Subplot Generation Tutorial                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48678'>Start Lab</a>  |
 |    0698 | 📖 Creating a Sankey Diagram                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48909'>Start Lab</a>  |
-|    0699 | 📖 Matplotlib Fonts Demo                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48746'>Start Lab</a>  |
+|    0699 | 📖 Customizing Text Font Properties                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48746'>Start Lab</a>  |
 |    0700 | 📖 Stix Fonts Demo                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48961'>Start Lab</a>  |
 |    0701 | 📖 Creating Pseudocolor Plots with Matplotlib Tripcol... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49010'>Start Lab</a>  |
 |    0702 | 📖 Triangular 3D Surfaces                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49013'>Start Lab</a>  |
@@ -759,8 +759,8 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0746 | 📖 Matplotlib Marker Customization Tutorial              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48820'>Start Lab</a>  |
 |    0747 | 📖 Creating Custom Fill Colors for Box Plots             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48588'>Start Lab</a>  |
 |    0748 | 📖 Matplotlib Movie Frame Extraction                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48749'>Start Lab</a>  |
-|    0749 | 📖 Snake Game Using Python and Pygame                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298902'>Start Lab</a> |
-|    0750 | 📖 Matplotlib Image Plotting                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48779'>Start Lab</a>  |
+|    0749 | 📖 Snake Game Using Python and Pygame (Lab)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298902'>Start Lab</a> |
+|    0750 | 📖 Matplotlib Image Visualization Techniques             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48779'>Start Lab</a>  |
 |    0751 | 📖 Matplotlib Floating Axes                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48676'>Start Lab</a>  |
 |    0752 | 📖 Creating Scatter Plots With Legends                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48917'>Start Lab</a>  |
 |    0753 | 📖 Creating a Percentiles Horizontal Bar Chart           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48578'>Start Lab</a>  |
@@ -776,13 +776,13 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0763 | 📖 Matplotlib Simple Axisline3                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48938'>Start Lab</a>  |
 |    0764 | 📖 Adjusting Matplotlib Tick Label Alignment             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48687'>Start Lab</a>  |
 |    0765 | 📖 Pandas DataFrame Drop Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68612'>Start Lab</a>  |
-|    0766 | 📖 Triangular 3D Contour Plot                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49005'>Start Lab</a>  |
-|    0767 | 📖 Triangular 3D Contour Plot                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49006'>Start Lab</a>  |
+|    0766 | 📖 Unstructured Triangular Grid Visualization            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49005'>Start Lab</a>  |
+|    0767 | 📖 Create Customized 3D Contour Plots                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49006'>Start Lab</a>  |
 |    0768 | 📖 Creating and Plotting Triangular Grids                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49011'>Start Lab</a>  |
 |    0769 | 📖 More Triangular 3D Surfaces                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49012'>Start Lab</a>  |
 |    0770 | 📖 Styling Text Boxes Using Bbox Parameters              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48725'>Start Lab</a>  |
 |    0771 | 📖 Create Spiral Plot with Python and Matplotlib         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48736'>Start Lab</a>  |
-|    0772 | 📖 Linux System Monitor Using Tkinter                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298891'>Start Lab</a> |
+|    0772 | 📖 Linux System Monitor Using Tkinter (Lab)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298891'>Start Lab</a> |
 |    0773 | 📖 Pandas DataFrame Any Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68581'>Start Lab</a>  |
 |    0774 | 📖 3D Voxel Plotting With Matplotlib                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49028'>Start Lab</a>  |
 |    0775 | 📖 Creating Artists With Units                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48555'>Start Lab</a>  |
@@ -798,7 +798,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0785 | 📖 Customize Matplotlib Spines                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48954'>Start Lab</a>  |
 |    0786 | 📖 3D Plots as Subplots                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48967'>Start Lab</a>  |
 |    0787 | 📖 Pandas DataFrame Apply Method                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68582'>Start Lab</a>  |
-|    0788 | 📖 Create Filled Contour Plots with Matplotlib           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48626'>Start Lab</a>  |
+|    0788 | 📖 Filled Contour Plots with Matplotlib                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48626'>Start Lab</a>  |
 |    0789 | 📖 Creating Colorbars with Matplotlib                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48608'>Start Lab</a>  |
 |    0790 | 📖 Interactive Data Exploration with Matplotlib Curso... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48636'>Start Lab</a>  |
 |    0791 | 📖 Customizing Matplotlib Markers for Data Visualizat... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48916'>Start Lab</a>  |
@@ -824,9 +824,9 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0811 | 📖 Matplotlib Line Plot With Data Points                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48720'>Start Lab</a>  |
 |    0812 | 📖 Create Customized Stock Price Graphs                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48962'>Start Lab</a>  |
 |    0813 | 📖 Custom Mercator Latitude Scale in Matplotlib          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48643'>Start Lab</a>  |
-|    0814 | 📖 Build Aliens Game Using Pygame                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298852'>Start Lab</a> |
+|    0814 | 📖 Build Aliens Game Using Pygame (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298852'>Start Lab</a> |
 |    0815 | 📖 Scaling Large Datasets                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65453'>Start Lab</a>  |
-|    0816 | 📖 Building a Tic-Tac-Toe Using Pygame                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298907'>Start Lab</a> |
+|    0816 | 📖 Building a Tic-Tac-Toe Using Pygame (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298907'>Start Lab</a> |
 |    0817 | 📖 Matplotlib Data Visualization                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49015'>Start Lab</a>  |
 |    0818 | 📖 Create Matplotlib Animations                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48857'>Start Lab</a>  |
 |    0819 | 📖 Matplotlib Contour Image                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48620'>Start Lab</a>  |
@@ -845,7 +845,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0832 | 📖 Create Geographic Projections with Python Matplotl... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48752'>Start Lab</a>  |
 |    0833 | 📖 Combining Data Tables in Pandas                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65437'>Start Lab</a>  |
 |    0834 | 📖 3D Surface Plotting with Matplotlib                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48973'>Start Lab</a>  |
-|    0835 | 📖 Classifying Iris Using SVM                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300195'>Start Lab</a> |
+|    0835 | 📖 Classifying Iris Using SVM (Lab)                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300195'>Start Lab</a> |
 |    0836 | 📖 Annotate With Units                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48546'>Start Lab</a>  |
 |    0837 | 📖 Create Dual-Axis Matplotlib Plot                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48939'>Start Lab</a>  |
 |    0838 | 📖 Animate a 3D Wireframe Plot                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49032'>Start Lab</a>  |
@@ -860,7 +860,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0847 | 📖 Image Plotting With Matplotlib                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71149'>Start Lab</a>  |
 |    0848 | 📖 Using Matplotlib General Timer Objects                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48997'>Start Lab</a>  |
 |    0849 | 📖 Pylab With Gtk3 Sgskip                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48885'>Start Lab</a>  |
-|    0850 | 📖 QR Code Generator Using Python                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298900'>Start Lab</a> |
+|    0850 | 📖 QR Code Generator Using Python (Lab)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298900'>Start Lab</a> |
 |    0851 | 📖 Double Pendulum Simulation                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48694'>Start Lab</a>  |
 |    0852 | 📖 Matplotlib Line Styles                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48809'>Start Lab</a>  |
 |    0853 | 📖 Interactive Plotting With Textbox                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48986'>Start Lab</a>  |
@@ -895,7 +895,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0882 | 📖 Matplotlib Stepwise Histogram Tutorial                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48957'>Start Lab</a>  |
 |    0883 | 📖 Matplotlib Game: Pong                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48880'>Start Lab</a>  |
 |    0884 | 📖 Creating a Pie Chart With Matplotlib                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48867'>Start Lab</a>  |
-|    0885 | 📖 Matplotlib Axis Direction                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48567'>Start Lab</a>  |
+|    0885 | 📖 Customizing Matplotlib Axis Direction                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48567'>Start Lab</a>  |
 |    0886 | 📖 Matplotlib Ellipse With Orientation Arrow             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48696'>Start Lab</a>  |
 |    0887 | 📖 Resizing Axes With Constrained Layout                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48671'>Start Lab</a>  |
 |    0888 | 📖 Creating Color Maps                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48613'>Start Lab</a>  |
@@ -916,7 +916,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0903 | 📖 Creating Matplotlib Subfigures                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48965'>Start Lab</a>  |
 |    0904 | 📖 Matplotlib Visualization Fundamentals                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48535'>Start Lab</a>  |
 |    0905 | 📖 Using Sparse Structures in Pandas                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65454'>Start Lab</a>  |
-|    0906 | 📖 Building a Network Scanner in Python                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298855'>Start Lab</a> |
+|    0906 | 📖 Building a Network Scanner in Python (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298855'>Start Lab</a> |
 |    0907 | 📖 Programmatically Controlling Subplot Adjustment       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48558'>Start Lab</a>  |
 |    0908 | 📖 Creating a Polygon in Matplotlib                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48878'>Start Lab</a>  |
 |    0909 | 📖 Matplotlib Date Plotting                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48656'>Start Lab</a>  |
@@ -926,15 +926,15 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0913 | 📖 Matplotlib 3D Surface and Contour Plotting            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48624'>Start Lab</a>  |
 |    0914 | 📖 Demo Parasite Axes                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48682'>Start Lab</a>  |
 |    0915 | 📖 Creating a Bar of Pie Chart                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48574'>Start Lab</a>  |
-|    0916 | 📖 Creating Contour Plots with Matplotlib                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48631'>Start Lab</a>  |
-|    0917 | 📖 Matplotlib Scatter Plot                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48912'>Start Lab</a>  |
+|    0916 | 📖 Optimization Contour Plotting with Matplotlib         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48631'>Start Lab</a>  |
+|    0917 | 📖 Customizable Scatter Plot Visualization               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48912'>Start Lab</a>  |
 |    0918 | 📖 Customizing Dashed Line Styles in Matplotlib          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48805'>Start Lab</a>  |
 |    0919 | 📖 Create Polar Graphs with Python Matplotlib            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48550'>Start Lab</a>  |
 |    0920 | 📖 Working With Nullable Integers                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65448'>Start Lab</a>  |
 |    0921 | 📖 Efficient Line Plotting with Matplotlib               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48804'>Start Lab</a>  |
 |    0922 | 📖 Subplots Spacings and Margins                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48968'>Start Lab</a>  |
 |    0923 | 📖 Add Watermark to Matplotlib Plot                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49030'>Start Lab</a>  |
-|    0924 | 📖 Creating Contour Plots with Matplotlib                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48791'>Start Lab</a>  |
+|    0924 | 📖 Irregular Data Grid Contour Plotting                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48791'>Start Lab</a>  |
 |    0925 | 📖 Customizing Matplotlib Legends                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48801'>Start Lab</a>  |
 |    0926 | 📖 Matplotlib Legend Toggling Tutorial                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48802'>Start Lab</a>  |
 |    0927 | 📖 Customized Matplotlib Contour Labeling                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48621'>Start Lab</a>  |
@@ -951,7 +951,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0938 | 📖 Handling Missing Data                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65449'>Start Lab</a>  |
 |    0939 | 📖 Matplotlib Plotting with ggplot Style                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48753'>Start Lab</a>  |
 |    0940 | 📖 Contour Plotting Unstructured Triangular Grids        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49002'>Start Lab</a>  |
-|    0941 | 📖 NumPy Data Types                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85701'>Start Lab</a>  |
+|    0941 | 📖 Understanding NumPy Data Types                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85701'>Start Lab</a>  |
 |    0942 | 📖 Adding Lines to Figures                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48727'>Start Lab</a>  |
 |    0943 | 📖 NumPy Trunc Function                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86514'>Start Lab</a>  |
 |    0944 | 📖 Matplotlib Fixed Size Axes                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48675'>Start Lab</a>  |
@@ -978,22 +978,22 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0965 | 📖 Numpy Ceil Function                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86414'>Start Lab</a>  |
 |    0966 | 📖 NumPy File IO                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/127'>Start Lab</a>    |
 |    0967 | 📖 Matplotlib Offset Copy                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49001'>Start Lab</a>  |
-|    0968 | 📖 Racing Game Using Pygame                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298901'>Start Lab</a> |
+|    0968 | 📖 Racing Game Using Pygame (Lab)                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298901'>Start Lab</a> |
 |    0969 | 📖 Create Group Bar Chart with Matplotlib                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48576'>Start Lab</a>  |
 |    0970 | 📖 Matplotlib Animated Scatter Plot                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48944'>Start Lab</a>  |
-|    0971 | 📖 Matplotlib Error Bar Visualization                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48714'>Start Lab</a>  |
+|    0971 | 📖 Creating Matplotlib Error Bar Plots                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48714'>Start Lab</a>  |
 |    0972 | 📖 Creating a Legend With Pre-Definedels                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48803'>Start Lab</a>  |
-|    0973 | 📖 Classic Pong Game Using Python and Pygame             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298856'>Start Lab</a> |
+|    0973 | 📖 Classic Pong Game Using Python and Pygame (Lab)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298856'>Start Lab</a> |
 |    0974 | 📖 Matplotlib Basics: Creating Line Plots                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48741'>Start Lab</a>  |
 |    0975 | 📖 Scatter Plot on Polar Axis                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48875'>Start Lab</a>  |
-|    0976 | 📖 Matplotlib Scatter Plot                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48918'>Start Lab</a>  |
+|    0976 | 📖 Visualizing Variable Relationships                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48918'>Start Lab</a>  |
 |    0977 | 📖 Matplotlib Stacked Bar Chart                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48575'>Start Lab</a>  |
 |    0978 | 📖 Matplotlib MRI Image Visualization                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48833'>Start Lab</a>  |
 |    0979 | 📖 Python Matplotlib Histogram Tutorial                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48770'>Start Lab</a>  |
 |    0980 | 📖 Matplotlib Ticked Patheffect                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48807'>Start Lab</a>  |
 |    0981 | 📖 Annotating Matplotlib Plots with Coordinate System... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48545'>Start Lab</a>  |
 |    0982 | 📖 Scatter Plot with Masked Data using Matplotlib        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48915'>Start Lab</a>  |
-|    0983 | 📖 Create Filled Contour Plots with Matplotlib           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48627'>Start Lab</a>  |
+|    0983 | 📖 Filled Contour Plots with Hatching                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48627'>Start Lab</a>  |
 |    0984 | 📖 Topographic Hillshading with Matplotlib               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49000'>Start Lab</a>  |
 |    0985 | 📖 Matplotlib Visualization Tutorial                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48943'>Start Lab</a>  |
 |    0986 | 📖 Overlay Image on Matplotlib Plot                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49029'>Start Lab</a>  |
@@ -1025,13 +1025,13 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    1012 | 📖 Mastering NumPy Einsum for Scientific Computing       | ★★☆          | <a target='_blank' href='https://labex.io/labs/4991'>Start Lab</a>   |
 |    1013 | 📖 NumPy Replace Function                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86494'>Start Lab</a>  |
 |    1014 | 📖 Grouped Bar Chart Withels Using Matplotlib            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48579'>Start Lab</a>  |
-|    1015 | 📖 Matplotlib Error Bar Visualization                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48712'>Start Lab</a>  |
+|    1015 | 📖 Matplotlib Error Bar Customization                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48712'>Start Lab</a>  |
 |    1016 | 📖 Advanced Quiver and Quiverkey Functions               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48893'>Start Lab</a>  |
 |    1017 | 📖 Annotating a Plot Using Matplotlib                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48548'>Start Lab</a>  |
 |    1018 | 📖 Create Polar Bar Chart with Python Matplotlib         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48871'>Start Lab</a>  |
 |    1019 | 📖 Matplotlib Tick Placement Customization               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48559'>Start Lab</a>  |
 |    1020 | 📖 Creating a Line Plot                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48869'>Start Lab</a>  |
-|    1021 | 📖 NumPy Array Creation                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85698'>Start Lab</a>  |
+|    1021 | 📖 Fundamental NumPy Array Creation Techniques           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85698'>Start Lab</a>  |
 |    1022 | 📖 Plotting Categorical Data with Matplotlib             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48598'>Start Lab</a>  |
 |    1023 | 📖 Gravitational Simulation of Earth and Super Jupite... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298885'>Start Lab</a> |
 |    1024 | 📖 Drawing Shapes with Matplotlib in Python              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48554'>Start Lab</a>  |
@@ -1045,7 +1045,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    1032 | 📖 Matplotlib 3D Quiver Plot                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48895'>Start Lab</a>  |
 |    1033 | 📖 Creating Matplotlib Horizontal and Vertical Axes      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48566'>Start Lab</a>  |
 |    1034 | 📖 Basic Errorbar Function                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48716'>Start Lab</a>  |
-|    1035 | 📖 Matplotlib 3D Surface Plotting                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48970'>Start Lab</a>  |
+|    1035 | 📖 Creating 3D Surface Plots with Matplotlib             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48970'>Start Lab</a>  |
 |    1036 | 📖 Interactive Colormap Adjustment                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48610'>Start Lab</a>  |
 |    1037 | 📖 3D Surface Plotting with Polar Coordinates            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48972'>Start Lab</a>  |
 |    1038 | 📖 Create 3D Plots with Matplotlib in Python             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48848'>Start Lab</a>  |
@@ -1075,7 +1075,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    1062 | 📖 Setting Default Y-Axis Tickels on the Right           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48988'>Start Lab</a>  |
 |    1063 | 📖 Controlling Matplotlib Tick Labels with Unicode       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49016'>Start Lab</a>  |
 |    1064 | 📖 Multiple Figs Demo                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48841'>Start Lab</a>  |
-|    1065 | 📖 NumPy Data Types                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86425'>Start Lab</a>  |
+|    1065 | 📖 NumPy Datatype Exploration                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86425'>Start Lab</a>  |
 |    1066 | 📖 NumPy STD Function                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86508'>Start Lab</a>  |
 |    1067 | 📖 Data Selection in Pandas                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65432'>Start Lab</a>  |
 |    1068 | 📖 Creating Plots With Different Scales                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49014'>Start Lab</a>  |
@@ -1092,8 +1092,8 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    1079 | 📖 Matplotlib Axisel Position                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48569'>Start Lab</a>  |
 |    1080 | 📖 Add Colorbar to Matplotlib Plot                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48669'>Start Lab</a>  |
 |    1081 | 📖 Creating a Bezier Curve                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48891'>Start Lab</a>  |
-|    1082 | 📖 Matplotlib 3D Contour Plot                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48625'>Start Lab</a>  |
-|    1083 | 📖 Matplotlib 3D Contour Plot                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48630'>Start Lab</a>  |
+|    1082 | 📖 Creating 3D Contour Visualizations                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48625'>Start Lab</a>  |
+|    1083 | 📖 Create 3D Contour Plots with Matplotlib               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48630'>Start Lab</a>  |
 |    1084 | 📖 Clipping Images With Patches                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48778'>Start Lab</a>  |
 |    1085 | 📖 Your First Matplotlib Lab                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92737'>Start Lab</a>  |
 |    1086 | 📖 Color by Y-Value                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48605'>Start Lab</a>  |
@@ -1136,7 +1136,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    1123 | 📖 Matplotlib Visualization Techniques for Data Analy... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48980'>Start Lab</a>  |
 |    1124 | 📖 Customizing Matplotlib Defaults with Python           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48646'>Start Lab</a>  |
 |    1125 | 📖 Python Matplotlib Plotting Basics                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48739'>Start Lab</a>  |
-|    1126 | 📖 Matplotlib Visualization in Python                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48780'>Start Lab</a>  |
+|    1126 | 📖 Customizing Matplotlib Visualizations in Python       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48780'>Start Lab</a>  |
 |    1127 | 📖 Configuring the Font Family in Matplotlib             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48742'>Start Lab</a>  |
 |    1128 | 📖 Create Visually Appealing Bar Charts with Matplotl... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48571'>Start Lab</a>  |
 |    1129 | 📖 Set and Get                                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48923'>Start Lab</a>  |
@@ -1172,7 +1172,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    1159 | 📖 Matplotlib Legend Creation Tutorial                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48942'>Start Lab</a>  |
 |    1160 | 📖 Adjusting Matplotlib Drawing Order                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49040'>Start Lab</a>  |
 |    1161 | 📖 Matplotlib Pyplot Interface Tutorial                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71148'>Start Lab</a>  |
-|    1162 | 📖 Matplotlib Visualization in Python                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48846'>Start Lab</a>  |
+|    1162 | 📖 Visualizing Named Colors with Matplotlib              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48846'>Start Lab</a>  |
 |    1163 | 📖 NumPy Array Mean Calculation                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86481'>Start Lab</a>  |
 |    1164 | 📖 NumPy Median Function                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86483'>Start Lab</a>  |
 |    1165 | 📖 Mastering NumPy Broadcasting for Efficient Computa... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85702'>Start Lab</a>  |
@@ -1181,9 +1181,9 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    1168 | 📖 Create a Line Plot With Matplotlib                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71147'>Start Lab</a>  |
 |    1169 | 📖 Creating and Using Python NumPy Arrays                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86402'>Start Lab</a>  |
 |    1170 | 📖 NumPy Shape Manipulation                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/214'>Start Lab</a>    |
-|    1171 | 📖 Build URL Shortener with Flask MySQL                  | ★★★          | <a target='_blank' href='https://labex.io/labs/298925'>Start Lab</a> |
-|    1172 | 📖 Build a Web Based TCP Port Scanner                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298837'>Start Lab</a> |
-|    1173 | 📖 Deploying MobileNet With TensorFlow.js and Flask      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298849'>Start Lab</a> |
+|    1171 | 📖 Build URL Shortener with Flask MySQL (Lab)            | ★★★          | <a target='_blank' href='https://labex.io/labs/298925'>Start Lab</a> |
+|    1172 | 📖 Build a Web Based TCP Port Scanner (Lab)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298837'>Start Lab</a> |
+|    1173 | 📖 Deploying MobileNet With TensorFlow.js and Flask (... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298849'>Start Lab</a> |
 
 ## More
 
