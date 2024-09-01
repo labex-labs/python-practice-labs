@@ -70,7 +70,7 @@ This course contains lots of labs for Python, each lab is a small Python project
 |    0057 | 📖 Number to Binary                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13730'>Start Lab</a>  |
 |    0058 | 📖 Number to Hex                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13732'>Start Lab</a>  |
 |    0059 | 📖 Python Context Managers                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271535'>Start Lab</a> |
-|    0060 | 📖 Python Regular Expressions                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271586'>Start Lab</a> |
+|    0060 | 📖 Python Regular Expressions Basics                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271586'>Start Lab</a> |
 |    0061 | 📖 Python Multithreading and Multiprocessing             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271599'>Start Lab</a> |
 |    0062 | 📖 Counting Occurrences in Python Lists                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13609'>Start Lab</a>  |
 |    0063 | 📖 Every nth element in list                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13626'>Start Lab</a>  |
